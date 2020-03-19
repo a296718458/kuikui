@@ -1,0 +1,23 @@
+{
+  "id": "1686878",
+  "name": "kuik",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9040724",
+      "name": "三角形",
+      "font_class": "triangle-right",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11078528",
+      "name": "三角形",
+      "font_class": "triangle-up-copy-copy",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}

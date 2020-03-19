@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="triangle-right" unicode="&#58880;" d="M346.27321046-30.491736500000002l0 828.983473 497.12340892-414.49044196z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="triangle-up-copy-copy" unicode="&#58903;" d="M962 609.004l-450.025-449.923-449.975 449.923 900 0z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
